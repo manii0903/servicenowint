@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Trying to put certificate management from citizen to Github </description>
+        <device_type>browser</device_type>
+        <hint>Trying to put certificate management from citizen to Github </hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-05 01:43:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>10472991831a1210f34a5fd6feaad387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Certificate Mangement Citizen </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Certificate Mangement Citizen " source="x_1530662_certific">6cf6ed55831a1210f34a5fd6feaad356</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Certificate Mangement Citizen ">6cf6ed55831a1210f34a5fd6feaad356</sys_scope>
+        <sys_update_name>sys_app_application_10472991831a1210f34a5fd6feaad387</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-05 01:43:38</sys_updated_on>
+        <title>Certificate Mangement Citizen </title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
